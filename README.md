@@ -23,7 +23,6 @@ This project provides a Python-based script to collect, process, and export data
 - [Configuration](#configuration)
 - [Excel Output](#excel-output)
 - [Logging](#logging)
-- [License](#license)
 
 ---
 
