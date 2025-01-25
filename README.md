@@ -43,7 +43,7 @@ Ensure you have the following installed on your system:
     ```
 3. Create a `.env` file to store your ThousandEyes API credentials:
     ```env
-    TE_API_KEY=your_api_key
+    API_KEY=your_api_key
     ```
 
 ## Usage
