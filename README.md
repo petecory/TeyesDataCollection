@@ -34,8 +34,8 @@ Ensure you have the following installed on your system:
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/thousandeyes-data-collection.git
-    cd thousandeyes-data-collection
+    git clone https://github.com/petecory/TeyesDataCollection.git
+    cd TeyesDataCollection
     ```
 2. Install dependencies:
     ```bash
